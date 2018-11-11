@@ -7,3 +7,6 @@ def shipping_manifest
 end 
 
 shipping_manifest["oil paintings"]
+
+def adding
+  shipping_manifest[the_manifest]
